@@ -1,4 +1,4 @@
-<img width="1280" height="790" alt="image" src="https://github.com/user-attachments/assets/4fbd928d-f7b3-4e26-86c1-9ffbf94ee897" /># AWESOME SAUCE MACROPAD
+# AWESOME SAUCE MACROPAD
 
 The best worst macropad I have ever made, for the world to see. 
 Runs custom firmware that will support almost infinite layers, macros, and maybe even AHK support?
